@@ -1,0 +1,23 @@
+{
+  "name": "substrate-multi-signature",
+  "version": "1.0.0",
+  "description": "substrate multisig generate call data and call hash demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ww8912188/substrate-multi-signature.git"
+  },
+  "author": "yinnan891@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ww8912188/substrate-multi-signature/issues"
+  },
+  "homepage": "https://github.com/ww8912188/substrate-multi-signature#readme",
+  "dependencies": {
+    "@polkadot/api": "^2.0.1",
+    "@polkadot/util-crypto": "^3.5.1"
+  }
+}

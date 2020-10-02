@@ -1,2 +1,2 @@
 # substrate-multi-signature
-substrate multi-sig demo
+substrate multi-sig call data and call hash demo
